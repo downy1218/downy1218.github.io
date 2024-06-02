@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "downy1218-blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "다은이의 블로그"
 name                     : "DAEUN"
 description              : "An amazing website."
 url                      : "https://downy1218.github.io"
